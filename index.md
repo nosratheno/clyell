@@ -3,4 +3,4 @@ layout: content
 title: "All the Things"
 ---
 
-A place to put things.
+And a place to put them.
