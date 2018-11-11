@@ -1,6 +1,6 @@
 ---
 layout: food
-title: "food Posts"
+title: "Dinner Time"
 permalink: /food/
 ---
 

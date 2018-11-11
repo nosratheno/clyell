@@ -3,7 +3,7 @@ layout: post
 title:	"Beef and Mushroom Stew"
 date:	2018-11-11 12:00:00
 categories:
-    - blog
+    - food
 tags:
     - beef
     - slowcook

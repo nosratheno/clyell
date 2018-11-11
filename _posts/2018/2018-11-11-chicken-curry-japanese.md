@@ -3,7 +3,7 @@ layout: post
 title:	"Chicken Curry"
 date:	2018-11-11 14:00:00
 categories:
-    - blog
+    - food
 tags:
     - chicken
     - curry
