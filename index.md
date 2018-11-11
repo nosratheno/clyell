@@ -1,8 +1,8 @@
 ---
 layout: content
-title: "The Mind Dump"
+title: "All the Things"
 ---
 
-# About
+#### About
 
-Collection of stuff
+Accoutrements of Id, and the (Super)Ego.
