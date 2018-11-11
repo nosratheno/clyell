@@ -1,7 +1,7 @@
 ---
 layout: food
 title: "Categories"
-permalink: /category/
+permalink: /categories/
 ---
 
 <!--
