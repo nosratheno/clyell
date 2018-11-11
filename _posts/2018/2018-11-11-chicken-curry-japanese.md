@@ -11,7 +11,7 @@ tags:
 
 Easy and very mild[^1] curry.
 
-## Ingredients
+### Ingredients
 
 * 3 of 5 blocks of S&B Golden Curry Sauce Mix
 * 1/4 cup of sake
@@ -29,13 +29,13 @@ Easy and very mild[^1] curry.
 * White pepper
 
 
-## Preparation
+### Preparation
 
 * Roughly chop potatoes and carrot, garlic and onion.
 * Chop chicken into chunks (e.g. 3cm)
 * Heat 2 cups of water with a pinch of chicken stock for the potatoes and carrots
 
-## Cooking
+### Cooking
 
 * Add potatoes, and carrots to the stock-water, and boil for 15 mins.
 * Add a splash of olive oil to the wok, and cook the garlic and onion until onion is softening.
@@ -47,6 +47,6 @@ Easy and very mild[^1] curry.
 
 Serve on rice. 
 
-## Note
+### Note
 
 [^1]: Mild if you get the mild mix. Suitable for kids who complain about eating spicy food. 

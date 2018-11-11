@@ -8,7 +8,7 @@ tags:
     - rice
 ---
 
-#### Ingredients
+### Ingredients
 
 * 3 eggs
 * 3 cups of cooked rice
@@ -20,14 +20,14 @@ tags:
 * Optional
   * Chinese sausage
 
-## Preparation
+### Preparation
 
 * Break up rice using a little oil and wet fingers
 * Chop spring onions, and red onion
 * Beat eggs, add a little white pepper
 * Chop chinese sausage into bite sized bits
 
-## Cooking
+### Cooking
 
 * Cook the chinese sausage (keep oil for egg step)
 * Heat 2 Tbsp oil in a wok (or see above)
@@ -39,6 +39,6 @@ tags:
 * Add soy sauce around the edges of the wok, mix and fry
 * Finally add the spring onions
 
-## Extras
+### Extras
 
 * Fried shallots

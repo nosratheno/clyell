@@ -1,0 +1,16 @@
+---
+title: Album of the Month - October 2018
+category: music
+summary: The Pop Pleasure
+tag: music
+---
+
+### Ghost - Meliora (2015)
+
+I really enjoy this album. It has the metal vibe that I appreciate, but I can also listen to it when my kids are around without feeling concerned about the overall harshness (as I listen to metal almost exclusively). Start to finish, it is a __very__ easy album to digest. 
+
+![Ghost - Meliora][meliora]
+
+[meliora]: https://nosratheno.github.io/images/albums/october-2018-meliora.png "Ghost - Meliora"
+
+
