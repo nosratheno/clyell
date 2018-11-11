@@ -1,11 +1,11 @@
 ---
-layout: blog
-title: "Blog Posts"
-permalink: /blog/
+layout: food
+title: "food Posts"
+permalink: /food/
 ---
 
 <ul class="posts">
-    {% for post in site.categories.blog %}
+    {% for post in site.categories.food %}
         <li>
             <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
             ::
