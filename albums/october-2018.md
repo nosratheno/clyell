@@ -2,12 +2,7 @@
 layout: post
 title:	"Album of the Month - October 2018"
 date:	2018-11-11 15:00:00
-categories:
-    - albums
-tags:
-    - music
 ---
-
 
 ### Ghost - Meliora (2015)
 
