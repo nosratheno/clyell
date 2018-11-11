@@ -1,7 +1,7 @@
 # Site settings
 title: "nosratheno"
 bye_message: "De gustibus non disputandum est"
-baseurl: ""
+baseurl: "https://nosratheno.github.io/"
 url: "https://nosratheno.github.io"
 disqus: nosratheno
 
