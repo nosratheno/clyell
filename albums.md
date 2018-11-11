@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "Albums"
+title: "Albums of the Month"
 permalink: /albums/
 ---
 
-### Albums of the Month
-
-* [October 2018](/albums/october-2018.md)
+* [November 2018]({{ site.baseurl }}albums/november-2018.md)
+* [October 2018]({{ site.baseurl }}albums/october-2018.md)
