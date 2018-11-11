@@ -8,6 +8,8 @@ tags:
     - rice
 ---
 
+Cheap and easy.
+
 ### Ingredients
 
 * 3 eggs
