@@ -1,10 +1,8 @@
 ---
 layout: content
+title: "The Mind Dump"
 ---
 
-# The Mind Dump
-
-
-### About
+# About
 
 Collection of stuff
