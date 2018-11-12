@@ -12,5 +12,5 @@ permalink: /shirts/
 ![Ayreon - 01011001 back]({{site.baseurl}}images/shirts/ayreon-01011001-b.png)
 ![Kalmah - Seventh Swamphony]({{site.baseurl}}images/shirts/kalmah-seventh-swamphony.png)
 ![Kalmah - Seventh Swamphony back]({{site.baseurl}}images/shirts/kalmah-seventh-swamphony-b.png)
-![Blind Guardian]({{site.basurl}}images/shirts/blind-guardian.png)
+![Blind Guardian]({{site.baseurl}}images/shirts/blind-guardian.png)
 ![Ne Obliviscaris]({{site.baseurl}}images/shirts/ne-obliviscaris.png)
