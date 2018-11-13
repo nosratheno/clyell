@@ -1,7 +1,7 @@
 ---
-layout: food
-title: "Bands in Shirt Form"
-permalink: /bands/
+layout: shirts
+title: "Bands as Shirts"
+permalink: /bands-as-shirts/
 ---
 
 <!--
@@ -12,7 +12,7 @@ permalink: /bands/
 -->
 
 <ul class="tag-box inline">
-{% assign list = site.tags | sort %}
+{% assign list = site.tags.bandshirt | sort %}
     {% for category in list %} 
         <li>
             <a href="#{{ category[0] }}">
@@ -24,7 +24,7 @@ permalink: /bands/
 {% assign list = nil %}
 </ul>
 
-{% assign taglist = site.tags | sort %}
+{% assign taglist = site.tags.bandshirt | sort %}
 {% for category in taglist %} 
  <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
  <ul class="post-list">

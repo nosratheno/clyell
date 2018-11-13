@@ -3,7 +3,7 @@ layout: post
 title:	"Iron Maiden - Can I Play With Madness"
 date:	2018-11-13 12:51:00
 categories:
-    - band
+    - bandshirt
 tags:
     - ironmaiden
 ---
