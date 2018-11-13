@@ -12,7 +12,7 @@ permalink: /bas/
 	      {{ bas.title }}
 	    </a>
 	    [
-        {% assign tag = post.tag | sort %}
+        {% assign tag = site.bas.bandname | sort %}
         {% for category in tag %}<span><a href="{{ site.baseurl }}categories/#{{ category }}" class="reserved">{{ category }}</a>{% if forloop.last != true %}&nbsp;{% endif %}</span>{% endfor %}
         {% assign tag = nil %}
         ]
