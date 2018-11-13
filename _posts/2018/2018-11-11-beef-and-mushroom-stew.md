@@ -23,15 +23,20 @@ tags:
 * 1 teaspoon of sugar
 * 1kg gravy beef
 * 1 fennel bulb
+* Potatoes
 
 ### Preparation
 
+* Boil a pot of water
+* Peel and cut potatoes
 * Crush the garlic cloves
 * Thickly slice the fennel bulb and onion
 * Roughy chop carrot
 * Roughly chop bacon and gravy beef
 
 ### Cooking
+
+* Put the potatoes into the boiling water, boil for 15 minutes, then add to slowcooker.
 
 * Onion Mixture
   * Add 2 tablespoons of oil and cook bacon, mushrooms, onion, garlic, and carrot, stirring until onions begin to soften.
