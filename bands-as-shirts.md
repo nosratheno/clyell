@@ -10,9 +10,8 @@ permalink: /bands-as-shirts/
 </header>
 
 -->
-
 <ul class="tag-box inline">
-{% assign list = bas.tags | sort %}
+{% assign list = site.collections.tags | sort %}
     {% for category in list %} 
         <li>
             <a href="#{{ category[0] }}">
@@ -24,7 +23,7 @@ permalink: /bands-as-shirts/
 {% assign list = nil %}
 </ul>
 
-{% assign taglist = bas.tags | sort %}
+{% assign taglist = site.collections.tags | sort %}
 {% for category in taglist %} 
  <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
  <ul class="post-list">
