@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Kalmah - Seventh Swamphony"
 bandname: kalmah
 tag: kalmah
