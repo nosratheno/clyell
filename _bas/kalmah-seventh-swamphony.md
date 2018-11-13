@@ -2,7 +2,7 @@
 layout: post
 title: "Kalmah - Seventh Swamphony"
 bandname: kalmah
-tag: kalmah
+tags: kalmah
 ---
 
 ![Kalmah - Seventh Swamphony]({{site.baseurl}}images/shirts/kalmah-seventh-swamphony.png)

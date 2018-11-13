@@ -12,6 +12,6 @@ permalink: /bas/
 	      {{ bas.title }}
 	    </a>
 	  </li>
-	  {% for category in page.tags %}<span><a href="{{ site.baseurl }}categories/#{{ category }}" class="reserved">{{ category }}</a>{% if forloop.last != true %}&nbsp;{% endif %}</span>{% endfor %}
+	  {% for category in bas.tags %}<span><a href="{{ site.baseurl }}categories/#{{ category }}" class="reserved">{{ category }}</a>{% if forloop.last != true %}&nbsp;{% endif %}</span>{% endfor %}
 	{% endfor %}
 </ul>
