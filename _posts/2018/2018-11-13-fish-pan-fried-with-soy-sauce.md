@@ -14,7 +14,7 @@ tags:
 * plain flour  
 * 1 Tbsp soy sauce  
 * 2 tsp sugar  
-* 1/3 cup of water  
+* 2/3 cup of water  
 * shallots  
 * ginger  
 * 3 garlic cloves  
@@ -39,7 +39,7 @@ tags:
 * Add oil to pan and heat on medium high. Throw in garlic, shallot whites and ginger.  
 * Fry until fragrant and garlic starting to colour.  
 * Remove garlic mix, and add fish to pan. Cook for 5 mins each side then remove to plate.  
-* Add sauce, and garlic mix to the pan and stir for a few minutes.  
+* Add sauce, and garlic mix to the pan and stir allowing to bubble for a couple of minutes.  
 
 Serve fish with rice and veg, topping with sauce and green shallot garnish.
 

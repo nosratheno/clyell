@@ -21,3 +21,7 @@ blog:
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+
+collections:
+  bas:
+    output: true
