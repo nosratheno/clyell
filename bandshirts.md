@@ -12,7 +12,7 @@ permalink: /bandshirts/
             <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
             [
             {% assign tag = post.tags | sort %}
-            {% for category in tag %}<span><a href="{{ site.baseurl }}shirts/#{{ category }}" class="reserved">{{ category }}</a>{% if forloop.last != true %}&nbsp;{% endif %}</span>{% endfor %}
+            {% for category in tag %}<span><a href="{{ site.baseurl }}bands-as-shirts/#{{ category }}" class="reserved">{{ category }}</a>{% if forloop.last != true %}&nbsp;{% endif %}</span>{% endfor %}
             {% assign tag = nil %}
             ]
         </li>
