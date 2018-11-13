@@ -14,7 +14,7 @@ permalink: /bas/
 {% endfor %}
 
 <ul class="posts">
-    {% for post in site.bas.bandname %}
+    {% for bas in site.bas %}
         <li>
             ::
             <a class="post-link" href="{{ bas.url }}">{{ bas.title }}</a>
