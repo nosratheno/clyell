@@ -1,7 +1,7 @@
 ---
 layout: food
 title: "Shirt Collection"
-permalink: /shirts-collection/
+permalink: /shirts/
 ---
 
 <ul class="posts">
