@@ -8,7 +8,7 @@ tags:
     - fish
 ---
 
-## Ingredients  
+### Ingredients  
 
 * white fish  
 * plain flour  
@@ -22,7 +22,7 @@ tags:
 * pepper  
 * oil  
 
-## Preparation  
+### Preparation  
 
 * Garlic mix  
   * Finely dice garlic  
@@ -34,7 +34,7 @@ tags:
 * Sauce  
   * Mix soy, sugar, and water  
 
-## Cooking  
+### Cooking  
 
 * Add oil to pan and heat on medium high. Throw in garlic, shallot whites and ginger.  
 * Fry until fragrant and garlic starting to colour.  

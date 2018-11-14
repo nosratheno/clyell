@@ -10,7 +10,7 @@ tags:
 
 Quick miso noodles for one.
 
-## Ingredients
+### Ingredients
 
 * 1 piece of ginger
 * 3 garlic cloves
@@ -26,7 +26,7 @@ Quick miso noodles for one.
 * Dash of sesame seeds
 * 1 Tbsp sesame oil
 
-## Preparation
+### Preparation
 
 * Mince garlic, and ginger (to taste).
 * Chop shallots separating the whites + 2 inches, from the rest which will be garnish 
@@ -36,7 +36,7 @@ Quick miso noodles for one.
 * Ready noodles for cooking
 * Ready miso, and gochujang together
 
-## Cooking
+### Cooking
 
 * Fry minced ingredients + shallots, in sesame oil until fragrant medium heat
 * Turn up to high add pork and cook until browned, giving a good mix to break it up.
@@ -47,7 +47,7 @@ Quick miso noodles for one.
 
 Drain cooked noodles and serve them with the ramen soup, top with garnish.
 
-## Notes
+### Notes
 
 * Additional things to add:
   * Boiled egg
