@@ -13,40 +13,55 @@ tags:
 
 ### Ingredients
 
-* 250g button mushrooms
+* 1kg gravy beef
+* 1 fennel bulb [^1]
+* 3 large potatoes
+* 250g mushrooms
 * 250g bacon (rindless)
 * 1 brown onion large
-* 1 carrot large
+* 3 carrots large
 * 4 garlic cloves 
 * 1 cup (250ml) dry red wine
-* 1/4 cup tomato paste[^1]
-* 1 teaspoon of sugar
-* 1kg gravy beef
-* 1 fennel bulb
-* Potatoes
+* 2 cups chicken stock
+* 1/2 cup tomato sauce
+* 1/4 cup soy sauce
+* 1/4 cup of flour
 
 ### Preparation
 
 * Boil a pot of water
 * Peel and cut potatoes
-* Crush the garlic cloves
-* Thickly slice the fennel bulb and onion
-* Roughy chop carrot
-* Roughly chop bacon and gravy beef
+
+* Base Broth
+	* Mix chicken stock, tomato sauce, and soy sauce
+	* Measure Wine
+
+* Place in slowcooker
+	* Crush and cut the garlic cloves
+	* Thickly slice the fennel
+	* Thickly slice onion
+	* Roughy chop carrots
+
+* Finely chop bacon
+* Roughly chop gravy beef and season
 
 ### Cooking
 
-* Put the potatoes into the boiling water, boil for 15 minutes, then add to slowcooker.
+* Put the potatoes into the boiling water, boil for 15 minutes, drain then add to slowcooker.
+* Add carrots, garlic, fennel to slowcooker
 
-* Onion Mixture
-  * Add 2 tablespoons of oil and cook bacon, mushrooms, onion, garlic, and carrot, stirring until onions begin to soften.
-  * Add the wine, sugar, and paste. Bring to the boil for 2 minutes uncovered.
+* Heat pan and cook bacon till crisp
+* Place bacon in slowcooker
+* Add beef to pan and brown before adding to slowcooker
 
-* Add the onion mixture, beef, and fennel to your slow cooker.
+* Add red wine to the pan and simmer to reduce
+* Add base broth to pan
+* Slowly whisk flour into pan to thicken
+* Add pan broth to slowcooker
 * Cook on low for 8 hours.
 
 ### Notes
 
-[^1]: I didnt have tomato paste so I used a pasta stir-through sauce. Worked fine. 
+[^1]: Optional.
 
 
