@@ -23,5 +23,5 @@ markdown: kramdown
 permalink: /:categories/:title/
 
 collections:
-  bas:
+  bandshirts:
     output: true

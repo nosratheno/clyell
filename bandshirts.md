@@ -10,10 +10,10 @@ permalink: /bandshirts/
 
 <ul class="posts">
 
-	{% for bas in site.bas %}
+	{% for bandshirts in site.bandshirts %}
 	  <li>
-	    <a href="{{ bas.url }}">
-	      {{ bas.title }}
+	    <a href="{{ bandshirts.url }}">
+	      {{ bandshirts.title }}
 	    </a>
 	  </li>
 	{% endfor %}
