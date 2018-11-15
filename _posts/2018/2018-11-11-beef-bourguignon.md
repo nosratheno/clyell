@@ -34,13 +34,13 @@ tags:
 
 * Base Broth
 	* Mix chicken stock, tomato sauce, and soy sauce
-.insertspace{}
+<br>
 * Place in slowcooker
 	* Crush and cut the garlic cloves
 	* Thickly slice the fennel
 	* Thickly slice onion
 	* Roughy chop carrots
-.insertspace{}
+<br>
 * Finely chop bacon
 * Roughly chop gravy beef and season
 
