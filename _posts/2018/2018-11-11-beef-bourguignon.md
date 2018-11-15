@@ -33,13 +33,13 @@ tags:
 * Peel and cut potatoes
 
 * Base Broth
-	* Mix chicken stock, tomato sauce, and soy sauce  
+	* Mix chicken stock, tomato sauce, and soy sauce
 
 * Place in slowcooker
 	* Crush and cut the garlic cloves
 	* Thickly slice the fennel
 	* Thickly slice onion
-	* Roughy chop carrots  
+	* Roughy chop carrots
 
 * Finely chop bacon
 * Roughly chop gravy beef and season
