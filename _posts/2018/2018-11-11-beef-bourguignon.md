@@ -28,7 +28,7 @@ tags:
 * 1/4 cup of flour
 
 ### Preparation
-
+<span>
 * Boil a pot of water
 * Peel and cut potatoes
 
@@ -43,6 +43,7 @@ tags:
 
 * Finely chop bacon
 * Roughly chop gravy beef and season
+</span>
 
 ### Cooking
 
