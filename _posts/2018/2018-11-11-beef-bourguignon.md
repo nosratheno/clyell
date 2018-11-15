@@ -13,52 +13,61 @@ tags:
 
 ### Ingredients
 
-* 1kg beef (gravy or chuck)
-* 1 fennel bulb[^1]
-* 3 large potatoes
-* 250g mushrooms
-* 250g bacon (rindless)
-* 1 brown onion large
-* 3 carrots large
-* 4 garlic cloves 
-* 1 cup (250ml) dry red wine
-* 2 cups chicken stock
-* 1/2 cup tomato sauce
-* 1/4 cup soy sauce
-* 1/4 cup of flour
+* Meat
+	* 1kg beef (gravy or chuck)
+	* 250g bacon (rindless)
+
+* Veg
+	* 1 fennel bulb[^1]
+	* 3 large potatoes
+	* 250g mushrooms
+	* 1 brown onion large
+	* 3 carrots large
+	* 4 garlic cloves 
+
+* Broth
+	* 1 cup (250ml) dry red wine
+	* 2 cups chicken stock
+	* 1/2 cup tomato sauce
+	* 1/4 cup soy sauce
+	* 1/4 cup of flour
 
 ### Preparation
 
-* Boil a pot of water
-* Peel and cut potatoes
+1. Potatoes
+	* Boil a pot of water
+	* Peel and cut potatoes  
 
-* Base Broth
-	* Mix chicken stock, tomato sauce, and soy sauce
-&nbsp;
-* Place in slowcooker
+1. The Sauce
+	* Mix chicken stock, tomato sauce, and soy sauce  
+
+1. Place in slowcooker
 	* Crush and cut the garlic cloves
 	* Thickly slice the fennel
 	* Thickly slice onion
-	* Roughy chop carrots
-&nbsp;
-* Finely chop bacon
-* Roughly chop gravy beef and season
+	* Roughy chop carrots  
 
+1. Meat
+	* Finely chop bacon
+	* Roughly chop gravy beef and season
 
 ### Cooking
 
-* Put the potatoes into the boiling water, boil for 15 minutes, drain then add to slowcooker.
-* Add carrots, garlic, fennel to slowcooker
+1. Add Veg to Slowcooker
+	* Put the potatoes into the boiling water, boil for 15 minutes, drain then add to slowcooker.
+	* Add carrots, garlic, fennel to slowcooker
 
-* Heat pan and cook bacon till crisp
-* Place bacon in slowcooker
-* Add beef to pan and brown before adding to slowcooker
+1. Cooking Meat
+	* Heat pan and cook bacon till crisp
+	* Place bacon in slowcooker
+	* Add beef to pan and brown before adding to slowcooker
 
-* Add red wine to the pan and simmer to reduce
-* Add base broth to pan
-* Slowly whisk flour into pan to thicken
-* Add pan broth to slowcooker
-* Cook on low for 8 hours.
+1. Finish Sauce
+	* Add red wine to the pan and simmer to reduce
+	* Add The Sauce to pan
+	* Slowly whisk flour into pan to thicken
+	* Add pan sauce to the slowcooker
+	* Cook on low for 8 hours.
 
 ### Notes
 
