@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	"Beef Bourguignon"
-date:	2018-11-11 12:00:00
+date:	2018-11-15 20:00:00
 categories:
     - food
 tags:
@@ -25,7 +25,7 @@ tags:
 	* 3 carrots large
 	* 4 garlic cloves 
 
-* Broth
+* Sauce
 	* 1 cup (250ml) dry red wine
 	* 2 cups chicken stock
 	* 1/2 cup tomato sauce
@@ -41,7 +41,7 @@ tags:
 1. The Sauce
 	* Mix chicken stock, tomato sauce, and soy sauce  
 
-1. Place in slowcooker
+1. For Slowcooker
 	* Crush and cut the garlic cloves
 	* Thickly slice the fennel
 	* Thickly slice onion
@@ -54,8 +54,8 @@ tags:
 ### Cooking
 
 1. Add Veg to Slowcooker
-	* Put the potatoes into the boiling water, boil for 15 minutes, drain then add to slowcooker.
-	* Add carrots, garlic, fennel to slowcooker
+	* Put the potatoes into boiling water[^2], boil for 15 minutes, drain then add to slowcooker.
+	* Add carrots, garlic, fennel to slowcooker (if you haven't already)
 
 1. Cooking Meat
 	* Heat pan and cook bacon till crisp
@@ -72,5 +72,6 @@ tags:
 ### Notes
 
 [^1]: Optional.
+[^2]: Can boil in stock and reserve 2 cups for The Sauce instead of water.
 
 
