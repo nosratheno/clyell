@@ -18,7 +18,7 @@ tags:
 	* 250g bacon (rindless)
 
 * Veg
-	* 1 fennel bulb[^1]
+	* 1 fennel bulb<sup>1</sup>
 	* 3 large potatoes
 	* 250g mushrooms
 	* 1 brown onion large
@@ -35,7 +35,7 @@ tags:
 ### Preparation
 
 1. Potatoes
-	* Boil a pot of water[^2]
+	* Boil a pot of water<sup>2</sup>
 	* Peel and cut potatoes
 	* Boil for 15 minutes
 
@@ -50,7 +50,7 @@ tags:
 	* Roughly chop beef, and season with salt and pepper.
 
 1. The Sauce
-	* Mix chicken stock[^2] tomato sauce, and soy sauce  
+	* Mix chicken stock<sup>2</sup>, tomato sauce, and soy sauce  
 
 ### Cooking
 
@@ -72,5 +72,5 @@ tags:
 
 ### Notes
 
-[^1]: Optional.
-[^2]: Can boil in stock and reserve 2 cups for The Sauce instead of water.
+1. Optional.
+1. Can boil in stock and reserve 2 cups for The Sauce instead of water.
