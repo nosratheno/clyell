@@ -23,7 +23,7 @@ tags:
 	* 250g mushrooms
 	* 1 brown onion large
 	* 3 carrots large
-	* 4 garlic cloves 
+	* 4 garlic cloves
 
 * Sauce
 	* 1 cup (250ml) dry red wine
@@ -37,7 +37,7 @@ tags:
 1. Potatoes
 	* Boil a pot of water[^2]
 	* Peel and cut potatoes
-	* Boil for 15 minutes 
+	* Boil for 15 minutes
 
 1. For Slowcooker
 	* Crush and cut the garlic cloves
@@ -50,13 +50,13 @@ tags:
 	* Roughly chop beef, and season with salt and pepper.
 
 1. The Sauce
-	* Mix chicken stock[^2], tomato sauce, and soy sauce  
+	* Mix chicken stock[^2] tomato sauce, and soy sauce  
 
 ### Cooking
 
 1. Add Veg to Slowcooker
 	* Put the potatoes into the slowcooker.
-	* Add carrots, garlic, fennel to slowcooker (if you haven't already)
+	* Add carrots, garlic, fennel to slowcooker
 
 1. Cooking Meat
 	* Heat pan and cook bacon till crisp
@@ -74,5 +74,3 @@ tags:
 
 [^1]: Optional.
 [^2]: Can boil in stock and reserve 2 cups for The Sauce instead of water.
-
-
