@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	"Beef Bourguignon"
-date:	2018-11-15 20:00:00
+date:	2018-11-15 21:00:00
 categories:
     - food
 tags:
@@ -18,7 +18,7 @@ tags:
 	* 250g bacon (rindless)
 
 * Veg
-	* 1 fennel bulb<sup name="a1">[1](#f1)</sup>
+	* 1 fennel bulb<sup name="a1">[1](#nb1)</sup>
 	* 3 large potatoes
 	* 250g mushrooms
 	* 1 brown onion large
@@ -35,7 +35,7 @@ tags:
 ### Preparation
 
 1. Potatoes
-	* Boil a pot of water<sup name="a2">[2](#f2)</sup>
+	* Boil a pot of water<sup name="a2">[2](#nb2)</sup>
 	* Peel and cut potatoes
 	* Boil for 15 minutes
 
@@ -43,7 +43,7 @@ tags:
 	* Crush and cut the garlic cloves
 	* Thickly slice the fennel
 	* Thickly slice onion
-	* Roughy chop carrots  
+	* Roughly chop carrots  
 
 1. Meat
 	* Finely chop bacon
@@ -72,5 +72,5 @@ tags:
 
 ### Notes
 
-<b id="f1">1</b>. Optional  
-<b id="f2">2</b>. Can boil in stock and reserve 2 cups for The Sauce instead of water.
+<b id="nb1">1</b>. Optional  
+<b id="nb2">2</b>. Can boil in stock and reserve 2 cups for The Sauce instead of water.
