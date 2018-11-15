@@ -39,9 +39,6 @@ tags:
 	* Peel and cut potatoes
 	* Boil for 15 minutes 
 
-1. The Sauce
-	* Mix chicken stock, tomato sauce, and soy sauce  
-
 1. For Slowcooker
 	* Crush and cut the garlic cloves
 	* Thickly slice the fennel
@@ -51,6 +48,9 @@ tags:
 1. Meat
 	* Finely chop bacon
 	* Roughly chop beef, and season with salt and pepper.
+
+1. The Sauce
+	* Mix chicken stock[^2]"," tomato sauce, and soy sauce  
 
 ### Cooking
 
