@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	"Beef and Mushroom Stew"
+title:	"Beef Bourguignon"
 date:	2018-11-11 12:00:00
 categories:
     - food
@@ -13,8 +13,8 @@ tags:
 
 ### Ingredients
 
-* 1kg gravy beef
-* 1 fennel bulb [^1]
+* 1kg beef (gravy or chuck)
+* 1 fennel bulb[^1]
 * 3 large potatoes
 * 250g mushrooms
 * 250g bacon (rindless)
@@ -34,13 +34,14 @@ tags:
 
 * Base Broth
 	* Mix chicken stock, tomato sauce, and soy sauce
-	* Measure Wine
+
 
 * Place in slowcooker
 	* Crush and cut the garlic cloves
 	* Thickly slice the fennel
 	* Thickly slice onion
 	* Roughy chop carrots
+
 
 * Finely chop bacon
 * Roughly chop gravy beef and season
