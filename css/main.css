@@ -225,3 +225,7 @@ margin: unset;
 span {
     white-space:pre;
 }
+
+.insertspace {
+    <br>
+}

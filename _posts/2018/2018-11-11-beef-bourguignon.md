@@ -28,22 +28,22 @@ tags:
 * 1/4 cup of flour
 
 ### Preparation
-<span>
+
 * Boil a pot of water
 * Peel and cut potatoes
 
 * Base Broth
 	* Mix chicken stock, tomato sauce, and soy sauce
-
+.insertspace{}
 * Place in slowcooker
 	* Crush and cut the garlic cloves
 	* Thickly slice the fennel
 	* Thickly slice onion
 	* Roughy chop carrots
-
+.insertspace{}
 * Finely chop bacon
 * Roughly chop gravy beef and season
-</span>
+
 
 ### Cooking
 
