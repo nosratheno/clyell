@@ -35,8 +35,9 @@ tags:
 ### Preparation
 
 1. Potatoes
-	* Boil a pot of water
-	* Peel and cut potatoes  
+	* Boil a pot of water[^2]
+	* Peel and cut potatoes
+	* Boil for 15 minutes 
 
 1. The Sauce
 	* Mix chicken stock, tomato sauce, and soy sauce  
@@ -54,7 +55,7 @@ tags:
 ### Cooking
 
 1. Add Veg to Slowcooker
-	* Put the potatoes into boiling water[^2], boil for 15 minutes, drain then add to slowcooker.
+	* Put the potatoes into the slowcooker.
 	* Add carrots, garlic, fennel to slowcooker (if you haven't already)
 
 1. Cooking Meat
@@ -66,7 +67,7 @@ tags:
 	* Add red wine to the pan and simmer to reduce
 	* Add The Sauce to pan
 	* Slowly whisk flour into pan to thicken
-	* Add pan sauce to the slowcooker
+	* Add finished sauce to the slowcooker
 	* Cook on low for 8 hours.
 
 ### Notes
