@@ -50,7 +50,7 @@ tags:
 	* Roughly chop beef, and season with salt and pepper.
 
 1. The Sauce
-	* Mix chicken stock[^2]"," tomato sauce, and soy sauce  
+	* Mix chicken stock[^2], tomato sauce, and soy sauce  
 
 ### Cooking
 
