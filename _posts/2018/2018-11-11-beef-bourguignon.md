@@ -50,7 +50,7 @@ tags:
 
 1. Meat
 	* Finely chop bacon
-	* Roughly chop gravy beef and season
+	* Roughly chop beef, and season with salt and pepper.
 
 ### Cooking
 
