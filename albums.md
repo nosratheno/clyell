@@ -5,13 +5,11 @@ permalink: /albums/
 ---
 
 <ul class="posts">
-	{% for post in site.categories.aotm %}
-	  <li>
-	    <a href="{{ post.url }}">
-	      {{ post.title }}
-	    </a>
-	  </li>
-	{% endfor %}
+    {% for post in site.categories.aotm %}
+        <li>
+            <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+    {% endfor %}
 </ul>
 
 <!--
