@@ -1,14 +1,16 @@
 ---
 layout: post
 title:	"Miso Ramen with Gochujang"
-date:	2018-11-14 15:00:00
+date:	2018-11-14 15:00:00 +11
 categories:
     - food
 tags:
     - noodles
 ---
 
-Lazy miso noodles for one.
+Lazy miso noodles for one.  
+For two adults and two kids, add more meat, and use the numbers in parentheses for soup.
+
 
 ### Ingredients
 
@@ -21,15 +23,15 @@ Lazy miso noodles for one.
     * 1 bunch of shallots
 
 * Soup
-    * 1 Tbsp shiro miso
-    * 1 Tbsp sake
-    * 1 tsp mirin
-    * 1 tsp gochujang
-    * 2 cups of chicken stock (home made) or water
+    * 1 Tbsp shiro miso (2)
+    * 1 Tbsp sake (3)
+    * 1 tsp mirin (3)
+    * 1 tsp gochujang (2)
+    * 2 cups of chicken stock (home made) or water (6)
 
 * Other
     * 1/2 tsp white pepper
-    * noodles
+    * Noodles
     * Dash of sesame seeds
     * 1 Tbsp sesame oil
 
@@ -37,7 +39,7 @@ Lazy miso noodles for one.
 
 1. First
     * Mince garlic, and ginger (to taste)
-    * Chop shallots separating the whites + 2 inches, from the rest which will be garnish
+    * Chop shallots separating the whites, from the rest which will be garnish
 1. Stock
     * Heat stock
     * Add sake, mirin, and pepper to stock
@@ -69,6 +71,7 @@ Lazy miso noodles for one.
 
 Extras to add:
 * Boiled egg
+    * (Gently add eggs from fridge to pot of boiling water. After 6 1/2 minutes, remove)
 * Vegies
 * Corn
 * Bean Sprouts
