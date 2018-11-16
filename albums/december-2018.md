@@ -1,0 +1,12 @@
+---
+layout: post
+title:	"Album of the Month - December - 2018"
+date:   2018-11-17 09:00:00 +11
+categories: aotm
+---
+
+### Amorphis - Tales from the Thousand Lakes (1994)
+
+This is a great album, and one I keep coming back to after finding it some 12 years ago. I hear the chugging intro of _To Father's Cabin_ in my minds eye, recall the band, and bust out this album. Never disappoints.
+
+![Amorphis - Tales from the Thousand Lakes]({{ site.baseurl }}images/december-2018-tales-from-the-thousand-lakes.png)
