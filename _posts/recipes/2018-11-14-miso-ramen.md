@@ -8,7 +8,7 @@ tags:
     - noodles
 ---
 
-Quick miso noodles for one.
+Lazy miso noodles for one.
 
 ### Ingredients
 
@@ -45,28 +45,31 @@ Quick miso noodles for one.
     * Ready noodles for cooking
 1. Flavour
     * Combine miso, gochujang, and sesame seeds together
+1. Extras
+    * Prep any extras
 
 ### Cooking
 
 1. Fry
     * Add sesame oil and fry minced ingredients + shallots, until fragrant, medium heat
 1. Pork
-    * Turn up to high add pork and cook until browned, giving a good mix to break it up.
-1. Flavour
-    * Add flavour combo and stir well.
+    * Turn heat to high add pork. Cook until done, giving a good mix to break it up
 1. Stock
-    * Add stock combo.
+    * Add stock combo
+    * Simmer soup, medium heat, for a few minutes
+1. Flavour
+    * Add flavour combo and stir well
+    * Let simmer on low
 1. Finish
-    * Simmer soup gently
     * Cook the noodles
     * Drain cooked noodles and serve, with the soup
-    * Top with garnish.
+    * Top with garnish and extras
 
 ### Notes
 
-Additional things to add:
+Extras to add:
 * Boiled egg
-* Veges
+* Vegies
 * Corn
 * Bean Sprouts
 * Char Siu pork
