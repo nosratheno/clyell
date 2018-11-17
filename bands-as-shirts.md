@@ -21,5 +21,6 @@ permalink: /bands-as-shirts/
             <span>({{ category[1].size }})</span>
         </li>
     {% endfor %}
+{% endfor %}
 {% assign list = nil %}
 </ul>
