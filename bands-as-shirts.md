@@ -12,7 +12,7 @@ permalink: /bands-as-shirts/
 -->
 <ul class="tag-box inline">
 {% for page in site.categories.bandshirts %}
-    {% assign list = page.tags | sort %}
+    {% assign list = site.tags.bandname | sort %}
     {% for category in list %}
         <li>
             <a href="#{{ category[0] }}">
