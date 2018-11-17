@@ -11,8 +11,9 @@ permalink: /bands-as-shirts/
 
 -->
 <ul class="tag-box inline">
-{% assign list = site.tags | sort %}
-    {% for category in list %} 
+{% for page in site.categories.bandshirts %}
+    {% assign list = page.tags | sort %}
+    {% for category in list %}
         <li>
             <a href="#{{ category[0] }}">
                 {{ category[0] }}
@@ -22,19 +23,3 @@ permalink: /bands-as-shirts/
     {% endfor %}
 {% assign list = nil %}
 </ul>
-
-{% assign taglist = site.tags | sort %}
-{% for category in taglist %} 
- <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
- <ul class="post-list">
-  {% assign list = category[1] %}  
-  {% for post in list %}
-   <li>
-   <a href="{{ post.url }}">{{ post.title }}</a>
-   </li>
-  {% endfor %}
-  {% assign pages_list = nil %}
-  {% assign group = nil %}
- </ul>
-{% endfor %}
-{% assign taglist = nil %}
