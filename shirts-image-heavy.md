@@ -30,4 +30,5 @@ permalink: /shirts-image-heavy/
 ![Opeth - Australian Tour of 2009]({{ site.baseurl }}images/shirts/opeth-australia-tour-09.png)
 ![Opeth - Australian Tour of 2009]({{ site.baseurl }}images/shirts/opeth-australia-tour-09-b.png)
 ![Death - Symbolic]({{ site.baseurl }}images/shirts/death-symbolic.png)
+![Death - Symbolic]({{ site.baseurl }}images/shirts/death-symbolic-b.png)
 ![Wintersun]({{ site.baseurl }}images/shirts/wintersun.png)
