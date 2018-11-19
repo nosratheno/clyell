@@ -21,7 +21,7 @@ permalink: /shirts-image-heavy/
 ![Opeth - What is Best in Life]({{ site.baseurl }}images/shirts/opeth-conan.png)
 ![Opeth - What is Best in Life back]({{ site.baseurl }}images/shirts/opeth-conan-b.png)
 ![Revocation - Cthulhu]({{ site.baseurl }}images/shirts/revocation.png)
-![Witherscape - The Inheritance]({{ site.baseurl }}images/shirt/witherscape-the-inheritance.png)
+![Witherscape - The Inheritance]({{ site.baseurl }}images/shirts/witherscape-the-inheritance.png)
 ![Devin Townsend - More!]({{ site.baseurl }}images/shirts/devin-townsend-more.png)
 ![Devin Townsend - More!]({{ site.baseurl }}images/shirts/devin-townsend-more-b.png)
 ![The Faceless - Prophets of Contamination]({{ site.baseurl }}images/shirts/the-faceless-prophet.png)
