@@ -55,7 +55,7 @@ a {
     padding-left: 0px;
 }
 .menu ul li {
-    display: block;
+    display: inline;
     margin-left: 5px;
 }
 .menu ul li a {
