@@ -22,8 +22,8 @@ tags:
 * Sauce
     * 1/3 cup oyster sauce
     * 1 Tbsp soy sauce
-    * 2 Tbsp water
-    * 1/2 tsp sugar
+    * 1/3 cup water
+    * 1 tsp sugar
     * 1 tsp cornflour
 
 * Marinade
