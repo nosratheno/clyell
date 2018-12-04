@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	"Tuna Sisig"
-date:	2018-11-11 17:26:00
+date:	2018-12-04 17:26:00
 categories:
     - food
 tags:
