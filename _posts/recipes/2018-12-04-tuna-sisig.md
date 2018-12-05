@@ -26,13 +26,16 @@ tags:
     * 1 Tbsp tomato sauce
     * 1/2 tsp sugar
     * 1/3 cup of mayonnaise or kewpie
-    * 1 packet of pork crackling 200g
+    * 1 packet of pork crackling 50g
+    * Rice
 
 ### Preparation
 
+1. Cook the rice
+
 1. Drain the tuna
 
-Get a big bowl, and to it add:
+_Get a big bowl, and to it add:_
 
 1. Seasoning
     * Liquid Seasoning
@@ -59,5 +62,5 @@ Get a big bowl, and to it add:
 
 1. Add 1/4 cup of oil to wok, mix and cook tuna till crispy (**ESG!**)
 1. Mix the big bowl.
-1. Add crispy tuna to the big bowl, mix, and serve.
+1. Add crispy tuna to the big bowl, mix, and serve on rice.
 1. Top with additional crushed crackling to taste.
