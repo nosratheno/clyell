@@ -16,7 +16,7 @@ tags:
     * 420g can of tuna in oil
 
 * Veg
-    * Ginger (for 3 Tbsp minced)
+    * Ginger (3 Tbsp minced)
     * 1 chili
     * 1 red onion
 * Other
@@ -60,7 +60,7 @@ _Get a big bowl, and to it add:_
 
 ### Cooking
 
-1. Add 1/4 cup of oil to wok, mix and cook tuna till crispy (**ESG!**)
+1. Add 1/4 cup of oil to wok, and cook tuna till crispy (**ESG!**)
 1. Mix the big bowl.
 1. Add crispy tuna to the big bowl, mix, and serve on rice.
 1. Top with additional crushed crackling to taste.
