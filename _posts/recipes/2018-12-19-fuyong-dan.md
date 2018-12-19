@@ -41,7 +41,7 @@ tags:
         * 1/2 tsp sugar
         * 1/2 tsp corn starch
         * 1/4 tsp soy sauce
-        * 1/2 tsp shoaxing
+        * 1/2 tsp shaoxing
         * Mix then add 1/2 tsp oil
 
     * Prawns
