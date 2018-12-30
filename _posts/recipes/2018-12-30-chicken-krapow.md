@@ -11,7 +11,6 @@ tags:
 ### Ingredients
 
 * Meat
-
     * 500g chicken mince
     * 1 egg per person (if having eggs)
 
@@ -21,13 +20,12 @@ tags:
     * Veg
 
 * Sauce
-
     * 1 Tbsp oyster sauce
     * 2 Tbsp fish sauce
     * 1 tsp sugar
     * 1 Tbsp water
 
-* oil
+* Oil
 
 ### Preparation
 
